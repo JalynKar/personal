@@ -1,6 +1,7 @@
 # microsoft bing 的 copilot 相关
 
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,cn.bing.com
 DOMAIN-SUFFIX,bing.com.cn
 DOMAIN-SUFFIX,bat.bing.com
 DOMAIN-SUFFIX,c.bing.com
