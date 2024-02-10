@@ -1,3 +1,16 @@
 # Google 相关
 
 DOMAIN-KEYWORD,google
+HOST-SUFFIX,notifications.google.com
+HOST-SUFFIX,gemini.google.com
+HOST-SUFFIX,www.gstatic.com
+HOST-SUFFIX,fonts.googleapis.com
+HOST-SUFFIX,waa-pa.clients6.google.com
+HOST-SUFFIX,ocsp.pki.goog
+HOST-SUFFIX,apis.google.com
+HOST-SUFFIX,google.com
+HOST-SUFFIX,gemini.google.com
+HOST-SUFFIX,accounts.google.com
+HOST-SUFFIX,lh3.googleusercontent.com
+HOST-SUFFIX,maps.googleapis.com
+HOST-SUFFIX,ogs.google.com
