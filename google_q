@@ -1,15 +1,15 @@
 #google quan
 
-host-keyword,notifications.google.com
-host-keyword,gemini.google.com
-host-keyword,www.gstatic.com
-HOST-SUFFIX,fonts.googleapis.com
-HOST-SUFFIX,waa-pa.clients6.google.com
-HOST-SUFFIX,ocsp.pki.goog
-HOST-SUFFIX,apis.google.com
-HOST-SUFFIX,google.com
-HOST-SUFFIX,gemini.google.com
-HOST-SUFFIX,accounts.google.com
-HOST-SUFFIX,lh3.googleusercontent.com
-HOST-SUFFIX,maps.googleapis.com
-HOST-SUFFIX,ogs.google.com
+host-suffix,notifications.google.com
+host-suffix,gemini.google.com
+host-suffix,www.gstatic.com
+host-suffix,fonts.googleapis.com
+host-suffix,waa-pa.clients6.google.com
+host-suffix,ocsp.pki.goog
+host-suffix,apis.google.com
+host-suffix,google.com
+host-suffix,gemini.google.com
+host-suffix,accounts.google.com
+host-suffix,lh3.googleusercontent.com
+host-suffix,maps.googleapis.com
+host-suffix,ogs.google.com
