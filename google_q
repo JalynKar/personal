@@ -110,20 +110,20 @@ ip-cidr,173.194.0.0/16,Google
 ip-cidr,74.125.0.0/16,Google
 
 # > Google Domestic CDNs
-host,clientservices.googleapis.com,Google Domestic
-host,fonts.googleapis.com,Google Domestic
-host,fonts.gstatic.com,Google Domestic
-host,ocsp.pki.goog,Google Domestic
-host,crl.pki.goog,Google Domestic
-host,redirector.c.bigcache.googleapis.com,Google Domestic
-host,redirector.gvt1.com,Google Domestic
-host,safebrowsing.googleapis.com,Google Domestic
-host,safebrowsing-cache.google.com,Google Domestic
-host-suffix,dl.google.com,Google Domestic
-host-suffix,dl.l.google.com,Google Domestic
-host-suffix,google.cn,Google Domestic
-host-suffix,googletraveladservices.com,Google Domestic
-host-suffix,ssl.gstatic.com,Google Domestic
-host-suffix,tools.google.com,Google Domestic
-host-suffix,tools.l.google.com,Google Domestic
-host-suffix,update.googleapis.com,Google Domestic
+host,clientservices.googleapis.com,Google
+host,fonts.googleapis.com,Google
+host,fonts.gstatic.com,Google
+host,ocsp.pki.goog,Google
+host,crl.pki.goog,Google
+host,redirector.c.bigcache.googleapis.com,Google
+host,redirector.gvt1.com,Google
+host,safebrowsing.googleapis.com,Google
+host,safebrowsing-cache.google.com,Google
+host-suffix,dl.google.com,Google
+host-suffix,dl.l.google.com,Google
+host-suffix,google.cn,Google
+host-suffix,googletraveladservices.com,Google
+host-suffix,ssl.gstatic.com,Google
+host-suffix,tools.google.com,Google
+host-suffix,tools.l.google.com,Google
+host-suffix,update.googleapis.com,Google
