@@ -1,8 +1,8 @@
 #google quan
 
-HOST-SUFFIX,notifications.google.com
-HOST-SUFFIX,gemini.google.com
-HOST-SUFFIX,www.gstatic.com
+host-keyword,notifications.google.com
+host-keyword,gemini.google.com
+host-keyword,www.gstatic.com
 HOST-SUFFIX,fonts.googleapis.com
 HOST-SUFFIX,waa-pa.clients6.google.com
 HOST-SUFFIX,ocsp.pki.goog
