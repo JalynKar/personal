@@ -3,7 +3,7 @@
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,notifications.google.com
 DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,www.gstatic.com
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,fonts.googleapis.com
 DOMAIN-SUFFIX,waa-pa.clients6.google.com
 DOMAIN-SUFFIX,ocsp.pki.goog
