@@ -1,0 +1,11 @@
+#小红书IP实验
+
+
+#从Mainland里面找到的
+IP-CIDR,1.255.62.0/24,XiaoHongShu
+
+#小红书
+HOST-SUFFIX,fengkongcloud.com,XiaoHongShu
+HOST-SUFFIX,xhscdn.com,XiaoHongShu
+HOST-SUFFIX,xhscdn.net,XiaoHongShu
+HOST-SUFFIX,xiaohongshu.com,XiaoHongShu
