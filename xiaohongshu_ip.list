@@ -14,7 +14,7 @@ IP6-CIDR,2a0b:b582::/48,XiaoHongShu
 IP6-CIDR,2a0b:b583::/48,XiaoHongShu
 
 ## > Tencent
-##IP-CIDR,182.254.116.0/24,XiaoHongShu
+IP-CIDR,182.254.116.0/24,XiaoHongShu
 
 ## > 小红书本身
 HOST-SUFFIX,fengkongcloud.com,XiaoHongShu
