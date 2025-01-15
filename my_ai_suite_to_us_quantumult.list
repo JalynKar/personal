@@ -1,97 +1,97 @@
 # from ----> https://github.com/JalynKar/personal/blob/master/my_ai_suite_to_us.list
 
 # > ChatGPT
-host-suffix, ai.com
-host-suffix, chatgpt.com
-host-suffix, openai.com
+host-suffix,ai.com
+host-suffix,chatgpt.com
+host-suffix,openai.com
 
 # > Chat GPT API & CDN
-host, chat.openai.com.cdn.cloudflare.net
-host, openaiapi-site.azureedge.net
-host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-host, openaicomproductionae4b.blob.core.windows.net
-host, production-openaicom-storage.azureedge.net
+host,chat.openai.com.cdn.cloudflare.net
+host,openaiapi-site.azureedge.net
+host,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+host,openaicomproductionae4b.blob.core.windows.net
+host,production-openaicom-storage.azureedge.net
 
-host-suffix, cdn.oaistatic.com
-host-suffix, oaiusercontent.com
+host-suffix,cdn.oaistatic.com
+host-suffix,oaiusercontent.com
 
-host, o33249.ingest.sentry.io
+host,o33249.ingest.sentry.io
 
 # > Claude
-host-suffix, anthropic.com
-host-suffix, claude.ai
-host-suffix, claudeusercontent.com
+host-suffix,anthropic.com
+host-suffix,claude.ai
+host-suffix,claudeusercontent.com
 
 # > Cloudflare AI Gateway
-host, gateway.ai.cloudflare.com
+host,gateway.ai.cloudflare.com
 
 # > Copilot
-host-suffix, githubcopilot.com
-host, copilot.microsoft.com
+host-suffix,githubcopilot.com
+host,copilot.microsoft.com
 
 # > Dify.AI
-host-suffix, dify.ai
+host-suffix,dify.ai
 
 # > GitHub Copilot
-host, api.github.com
+host,api.github.com
 
 # > Google Gemini
-host-suffix, bard.google.com
-host-suffix, gemini.google.com
+host-suffix,bard.google.com
+host-suffix,gemini.google.com
 
 # > Google DeepMind
-host-suffix, deepmind.com
-host-suffix, deepmind.google
+host-suffix,deepmind.com
+host-suffix,deepmind.google
 
 # > Google Generative Language API
-host-suffix, generativelanguage.googleapis.com
-host-suffix, geller-pa.googleapis.com
-host-suffix, proactivebackend-pa.googleapis.com
+host-suffix,generativelanguage.googleapis.com
+host-suffix,geller-pa.googleapis.com
+host-suffix,proactivebackend-pa.googleapis.com
 
 # > Google AI Studio
-host-KEYWORD, alkalimakersuite-pa.clients6.google.com
-host-suffix, aistudio.google.com
-host-suffix, makersuite.google.com
-host-suffix, generativeai.google
-host, ai.google
+host-KEYWORD,alkalimakersuite-pa.clients6.google.com
+host-suffix,aistudio.google.com
+host-suffix,makersuite.google.com
+host-suffix,generativeai.google
+host,ai.google
 host, ai.google.dev
 host, alkalicore-pa.clients6.google.com
 host, waa-pa.clients6.google.com
 
 # > Google NotebookLM
-host-suffix, notebooklm.google
-host-suffix, notebooklm.google.com
+host-suffix,notebooklm.google
+host-suffix,notebooklm.google.com
 
 # > Google Labs==
-host-suffix, labs.google
-host-suffix, labs.google.com
-host-suffix, textfx.withgoogle.com
-host-suffix, learning.google.com
+host-suffix,labs.google
+host-suffix,labs.google.com
+host-suffix,textfx.withgoogle.com
+host-suffix,learning.google.com
 
 # > Groq
-host-suffix, groq.com
+host-suffix,groq.com
 
 # > Jasper
-host-suffix, clipdrop.co
-host-suffix, jasper.ai
+host-suffix,clipdrop.co
+host-suffix,jasper.ai
 
 # > Meta AI
-host-suffix, meta.ai
+host-suffix,meta.ai
 
 # > OpenArt
-host-suffix, openart.ai
+host-suffix,openart.ai
 
 # > Perplexity AI
-host-suffix, perplexity.ai
+host-suffix,perplexity.ai
 
 # > POE
-host-suffix, poe.com
+host-suffix,poe.com
 
 # > Siri
-host, apple-relay.apple.com
-host, apple-relay.cloudflare.com
-host, guzzoni.smoot.apple.com
+host,apple-relay.apple.com
+host,apple-relay.cloudflare.com
+host,guzzoni.smoot.apple.com
 
 # > Sora
-host-suffix, sora.com
-host, sora-cdn.oaistatic.com
+host-suffix,sora.com
+host,sora-cdn.oaistatic.com
