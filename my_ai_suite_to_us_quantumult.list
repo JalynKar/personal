@@ -1,96 +1,96 @@
 # from ----> https://github.com/JalynKar/personal/blob/master/my_ai_suite_to_us.list
 
 # > ChatGPT
-HOST-SUFFIX,ai.com
-HOST-SUFFIX,chatgpt.com
-HOST-SUFFIX,openai.com
+HOST-SUFFIX,ai.com,AI Suite
+HOST-SUFFIX,chatgpt.com,AI Suite
+HOST-SUFFIX,openai.com,AI Suite
 
 # > Chat GPT API & CDN
-HOST,chat.openai.com.cdn.cloudflare.net
-HOST,openaiapi-site.azureedge.net
-HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
-HOST,openaicomproductionae4b.blob.core.windows.net
-HOST,production-openaicom-storage.azureedge.net
+HOST,chat.openai.com.cdn.cloudflare.net,AI Suite
+HOST,openaiapi-site.azureedge.net,AI Suite
+HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,AI Suite
+HOST,openaicomproductionae4b.blob.core.windows.net,AI Suite
+HOST,production-openaicom-storage.azureedge.net,AI Suite
 
-HOST-SUFFIX,cdn.oaistatic.com
-HOST-SUFFIX,oaiusercontent.com
+HOST-SUFFIX,cdn.oaistatic.com,AI Suite
+HOST-SUFFIX,oaiusercontent.com,AI Suite
 
-HOST,o33249.ingest.sentry.io
+HOST,o33249.ingest.sentry.io,AI Suite
 
 # > Claude
-HOST-SUFFIX,anthropic.com
-HOST-SUFFIX,claude.ai
-HOST-SUFFIX,claudeusercontent.com
+HOST-SUFFIX,anthropic.com,AI Suite
+HOST-SUFFIX,claude.ai,AI Suite
+HOST-SUFFIX,claudeusercontent.com,AI Suite
 
-# > Cloudflare AI Gateway
-HOST,gateway.ai.cloudflare.com
+# > Cloudflare AI Gateway,AI Suite
+HOST,gateway.ai.cloudflare.com,AI Suite
 
 # > Copilot
-HOST-SUFFIX,githubcopilot.com
-HOST,copilot.microsoft.com
+HOST-SUFFIX,githubcopilot.com,AI Suite
+HOST,copilot.microsoft.com,AI Suite
 
 # > Dify.AI
-HOST-SUFFIX,dify.ai
+HOST-SUFFIX,dify.ai,AI Suite
 
 # > GitHub Copilot
-HOST,api.github.com
+HOST,api.github.com,AI Suite
 
 # > Google Gemini
-HOST-SUFFIX,bard.google.com
-HOST-SUFFIX,gemini.google.com
+HOST-SUFFIX,bard.google.com,AI Suite
+HOST-SUFFIX,gemini.google.com,AI Suite
 
-# > Google DeepMind
-HOST-SUFFIX,deepmind.com
-HOST-SUFFIX,deepmind.google
+# > Google DeepMind,AI Suite
+HOST-SUFFIX,deepmind.com,AI Suite
+HOST-SUFFIX,deepmind.google,AI Suite
 
 # > Google Generative Language API
-HOST-SUFFIX,generativelanguage.googleapis.com
-HOST-SUFFIX,geller-pa.googleapis.com
-HOST-SUFFIX,proactivebackend-pa.googleapis.com
+HOST-SUFFIX,generativelanguage.googleapis.com,AI Suite
+HOST-SUFFIX,geller-pa.googleapis.com,AI Suite
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,AI Suite
 
 # > Google AI Studio
-HOST-KEYWORD,alkalimakersuite-pa.clients6.google.com
-HOST-SUFFIX,aistudio.google.com
-HOST-SUFFIX,makersuite.google.com
-HOST-SUFFIX,generativeai.google
-HOST,ai.google
-HOST, ai.google.dev
-HOST, alkalicore-pa.clients6.google.com
-HOST, waa-pa.clients6.google.com
+HOST-KEYWORD,alkalimakersuite-pa.clients6.google.com,AI Suite
+HOST-SUFFIX,aistudio.google.com,AI Suite
+HOST-SUFFIX,makersuite.google.com,AI Suite
+HOST-SUFFIX,generativeai.google,AI Suite
+HOST,ai.google,AI Suite
+HOST, ai.google.dev,AI Suite
+HOST, alkalicore-pa.clients6.google.com,AI Suite
+HOST, waa-pa.clients6.google.com,AI Suite
 
 # > Google NotebookLM
-HOST-SUFFIX,notebooklm.google
-HOST-SUFFIX,notebooklm.google.com
+HOST-SUFFIX,notebooklm.google,AI Suite
+HOST-SUFFIX,notebooklm.google.com,AI Suite
 
 # > Google Labs==
-HOST-SUFFIX,labs.google
-HOST-SUFFIX,labs.google.com
-HOST-SUFFIX,textfx.withgoogle.com
-HOST-SUFFIX,learning.google.com
+HOST-SUFFIX,labs.google,AI Suite
+HOST-SUFFIX,labs.google.com,AI Suite
+HOST-SUFFIX,textfx.withgoogle.com,AI Suite
+HOST-SUFFIX,learning.google.com,AI Suite
 
 # > Groq
-HOST-SUFFIX,groq.com
+HOST-SUFFIX,groq.com,AI Suite
 
 # > Jasper
-HOST-SUFFIX,clipdrop.co
-HOST-SUFFIX,jasper.ai
+HOST-SUFFIX,clipdrop.co,AI Suite
+HOST-SUFFIX,jasper.ai,AI Suite
 
 # > Meta AI
-HOST-SUFFIX,meta.ai
+HOST-SUFFIX,meta.ai,AI Suite
 
 # > OpenArt
-HOST-SUFFIX,openart.ai
+HOST-SUFFIX,openart.ai,AI Suite
 
 # > Perplexity AI
-HOST-SUFFIX,perplexity.ai
+HOST-SUFFIX,perplexity.ai,AI Suite
 
 # > POE
-HOST-SUFFIX,poe.com
+HOST-SUFFIX,poe.com,AI Suite
 
 # > Siri
-HOST,apple-relay.apple.com
-HOST,apple-relay.cloudflare.com
-HOST,guzzoni.smoot.apple.com
+HOST,apple-relay.apple.com,AI Suite
+HOST,apple-relay.cloudflare.com,AI Suite
+HOST,guzzoni.smoot.apple.com,AI Suite
 
 # > Sora
 HOST-SUFFIX,sora.com
