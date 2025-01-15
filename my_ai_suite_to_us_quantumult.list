@@ -93,5 +93,5 @@ HOST,apple-relay.cloudflare.com,AI Suite
 HOST,guzzoni.smoot.apple.com,AI Suite
 
 # > Sora
-HOST-SUFFIX,sora.com
-HOST,sora-cdn.oaistatic.com
+HOST-SUFFIX,sora.com,AI Suite
+HOST,sora-cdn.oaistatic.com,AI Suite
