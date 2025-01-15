@@ -1,0 +1,95 @@
+# > ChatGPT
+host_suffix, ai.com
+host_suffix, chatgpt.com
+host_suffix, openai.com
+
+# > Chat GPT API & CDN
+host, chat.openai.com.cdn.cloudflare.net
+host, openaiapi-site.azureedge.net
+host, openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+host, openaicomproductionae4b.blob.core.windows.net
+host, production-openaicom-storage.azureedge.net
+
+host_suffix, cdn.oaistatic.com
+host_suffix, oaiusercontent.com
+
+host, o33249.ingest.sentry.io
+
+# > Claude
+host_suffix, anthropic.com
+host_suffix, claude.ai
+host_suffix, claudeusercontent.com
+
+# > Cloudflare AI Gateway
+host, gateway.ai.cloudflare.com
+
+# > Copilot
+host_suffix, githubcopilot.com
+host, copilot.microsoft.com
+
+# > Dify.AI
+host_suffix, dify.ai
+
+# > GitHub Copilot
+host, api.github.com
+
+# > Google Gemini
+host_suffix, bard.google.com
+host_suffix, gemini.google.com
+
+# > Google DeepMind
+host_suffix, deepmind.com
+host_suffix, deepmind.google
+
+# > Google Generative Language API
+host_suffix, generativelanguage.googleapis.com
+host_suffix, geller-pa.googleapis.com
+host_suffix, proactivebackend-pa.googleapis.com
+
+# > Google AI Studio
+host-KEYWORD, alkalimakersuite-pa.clients6.google.com
+host_suffix, aistudio.google.com
+host_suffix, makersuite.google.com
+host_suffix, generativeai.google
+host, ai.google
+host, ai.google.dev
+host, alkalicore-pa.clients6.google.com
+host, waa-pa.clients6.google.com
+
+# > Google NotebookLM
+host_suffix, notebooklm.google
+host_suffix, notebooklm.google.com
+
+# > Google Labs==
+host_suffix, labs.google
+host_suffix, labs.google.com
+host_suffix, textfx.withgoogle.com
+host_suffix, learning.google.com
+
+# > Groq
+host_suffix, groq.com
+
+# > Jasper
+host_suffix, clipdrop.co
+host_suffix, jasper.ai
+
+# > Meta AI
+host_suffix, meta.ai
+
+# > OpenArt
+host_suffix, openart.ai
+
+# > Perplexity AI
+host_suffix, perplexity.ai
+
+# > POE
+host_suffix, poe.com
+
+# > Siri
+host, apple-relay.apple.com
+host, apple-relay.cloudflare.com
+host, guzzoni.smoot.apple.com
+
+# > Sora
+host_suffix, sora.com
+host, sora-cdn.oaistatic.com
