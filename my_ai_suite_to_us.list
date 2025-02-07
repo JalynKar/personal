@@ -64,6 +64,7 @@ DOMAIN-SUFFIX, notebooklm.google.com
 
 # > Google Labs==
 DOMAIN-SUFFIX, labs.google
+DOMAIN, labs.google/fx/tools/whisk
 DOMAIN-SUFFIX, labs.google.com
 DOMAIN-SUFFIX, textfx.withgoogle.com
 DOMAIN-SUFFIX, learning.google.com
