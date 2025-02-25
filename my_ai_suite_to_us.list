@@ -53,7 +53,6 @@ DOMAIN-KEYWORD, alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX, aistudio.google.com
 DOMAIN-SUFFIX, makersuite.google.com
 DOMAIN-SUFFIX, generativeai.google
-DOMAIN, ai.google
 DOMAIN, ai.google.dev
 DOMAIN, alkalicore-pa.clients6.google.com
 DOMAIN, waa-pa.clients6.google.com
@@ -61,13 +60,6 @@ DOMAIN, waa-pa.clients6.google.com
 # > Google NotebookLM
 DOMAIN-SUFFIX, notebooklm.google
 DOMAIN-SUFFIX, notebooklm.google.com
-
-# > Google Labs==
-DOMAIN-SUFFIX, labs.google
-DOMAIN, labs.google/fx/tools/whisk
-DOMAIN-SUFFIX, labs.google.com
-DOMAIN-SUFFIX, textfx.withgoogle.com
-DOMAIN-SUFFIX, learning.google.com
 
 # > Groq
 DOMAIN-SUFFIX, groq.com
@@ -96,3 +88,13 @@ DOMAIN, guzzoni.smoot.apple.com
 # > Sora
 DOMAIN-SUFFIX, sora.com
 DOMAIN, sora-cdn.oaistatic.com
+
+
+#以下是我添加的
+
+# > Google Labs==
+DOMAIN-SUFFIX, labs.google
+DOMAIN, labs.google/fx/tools/whisk
+DOMAIN-SUFFIX, labs.google.com
+DOMAIN-SUFFIX, textfx.withgoogle.com
+DOMAIN-SUFFIX, learning.google.com
