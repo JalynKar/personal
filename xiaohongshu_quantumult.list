@@ -4,7 +4,7 @@
 # UPDATED: 2025-06-06 09:18:50
 # DOMAIN-SUFFIX: 4
 # TOTAL: 4
-HOST-SUFFIX,fengkongcloud.com
-HOST-SUFFIX,xhscdn.com
-HOST-SUFFIX,xhscdn.net
-HOST-SUFFIX,xiaohongshu.com
+HOST-SUFFIX,fengkongcloud.com,Red
+HOST-SUFFIX,xhscdn.com,Red
+HOST-SUFFIX,xhscdn.net,Red
+HOST-SUFFIX,xiaohongshu.com,Red
