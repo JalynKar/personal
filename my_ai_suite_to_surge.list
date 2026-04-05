@@ -105,6 +105,7 @@ DOMAIN-SUFFIX,openrouter.ai
 
 # > Perplexity AI
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity-ai.cloudflareaccess.com
 
 # > POE
 DOMAIN-SUFFIX,poe.com
